@@ -13,6 +13,7 @@
 		A94309861A4D9857009967A8 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A94309851A4D9857009967A8 /* Images.xcassets */; };
 		A94309891A4D9857009967A8 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A94309871A4D9857009967A8 /* LaunchScreen.xib */; };
 		A94309951A4D9857009967A8 /* SaveAndLoadTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A94309941A4D9857009967A8 /* SaveAndLoadTests.swift */; };
+		A943099F1A4DA4AF009967A8 /* Funny-Turkey-Pictures-2014.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A943099E1A4DA4AF009967A8 /* Funny-Turkey-Pictures-2014.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		A943098E1A4D9857009967A8 /* SaveAndLoadTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SaveAndLoadTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A94309931A4D9857009967A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A94309941A4D9857009967A8 /* SaveAndLoadTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SaveAndLoadTests.swift; sourceTree = "<group>"; };
+		A943099E1A4DA4AF009967A8 /* Funny-Turkey-Pictures-2014.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Funny-Turkey-Pictures-2014.jpg"; path = "../Funny-Turkey-Pictures-2014.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				A94309801A4D9857009967A8 /* ViewController.swift */,
 				A94309821A4D9857009967A8 /* Main.storyboard */,
 				A94309851A4D9857009967A8 /* Images.xcassets */,
+				A943099E1A4DA4AF009967A8 /* Funny-Turkey-Pictures-2014.jpg */,
 				A94309871A4D9857009967A8 /* LaunchScreen.xib */,
 				A943097C1A4D9856009967A8 /* Supporting Files */,
 			);
@@ -194,6 +197,7 @@
 			files = (
 				A94309841A4D9857009967A8 /* Main.storyboard in Resources */,
 				A94309891A4D9857009967A8 /* LaunchScreen.xib in Resources */,
+				A943099F1A4DA4AF009967A8 /* Funny-Turkey-Pictures-2014.jpg in Resources */,
 				A94309861A4D9857009967A8 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
